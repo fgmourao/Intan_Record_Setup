@@ -1,14 +1,8 @@
-# A fully adapted headstage for electrophysiological experiments with custom and scalable electrode arrays to record widely distributed brain regions<br />
+# A Fully Adapted Headstage With Custom Electrode Arrays Designed for Electrophysiological Experiments<br />
 
-
-Authors: Flávio Afonso Gonçalves Mourão 1; Leonardo de Oliveira Guarnieri 1,2; Paulo Aparecido Amaral Júnior 1,2; Vinícius Rezende Carvalho 1,2; Eduardo Mazoni Andrade Marçal Mendes 1,2; Márcio Flávio Dutra Moraes 1.<br />
-
-
-1.	Núcleo de Neurociências, Departamento de Fisiologia e Biofísica, Instituto de Ciências Biológicas (ICB), Universidade Federal de Minas Gerais (UFMG). Av. Antônio Carlos, 6627 - CEP 31270-901. Belo Horizonte, Minas Gerais, Brazil. <br />
-
-2.	Programa de Pós-Graduação em Engenharia Elétrica, Departamento de Engenharia Eletrônica (DELT), Escola de Engenharia, Universidade Federal de Minas Gerais (UFMG). Av. Antônio Carlos, 6627 - CEP 31270-901. Belo Horizonte, Minas Gerais, Brazil.<br />
-
-
+Front. Neurosci., 03 March 2022<br />
+Sec. Neural Technology <br />
+https://doi.org/10.3389/fnins.2021.691788<br />
 
 Correspondence:<br />
 
