@@ -32,6 +32,6 @@ Email: mfdm@icb.ufmg.br <br />
 <br />
 
 
-![https://github.com/fgmourao/Lab_Projects/blob/master/Intan%20Record%20Setup/Tutorial_images/Fig1.png](https://github.com/fgmourao/Lab_Projects/blob/master/Intan%20Record%20Setup/Tutorial_images/Fig1.png)<br />
+![https://github.com/fgmourao/Intan_Record_Setup/blob/main/Tutorial_images/Fig1.png](https://github.com/fgmourao/Intan_Record_Setup/blob/main/Tutorial_images/Fig1.png)<br />
 
 Headstage adapted from the Intan RHD headstage system with a flexible printed circuit (SMD/FPC) connector. A) Headstage fully assembled in real size. B) Top and bottom view of the headstage. Both the 2132 and 2216 Intan chips can be used according to the circuit configuration chosen. C) Flat-Grid connector board for sixteen channels designed to connect to the SMD/FPC connector. D) Fiber board punctured with small holes according to the chosen stereotaxic coordinates. A variable number of electrodes can be aligned and fixed from distinct dorsoventral configurations.
